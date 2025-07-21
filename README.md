@@ -1,4 +1,4 @@
-PURPOSE: Convertng Prsian Numbers Into Letters\n
-TO USE: Just Run The Fuile(**$ python NtoS.py**)\n
-WRITEN BY: Alireza Zeraatkar\n
+PURPOSE: Convertng Prsian Numbers Into Letters*******
+TO USE: Just Run The Fuile(**$ python NtoS.py**)*******
+WRITEN BY: Alireza Zeraatkar*******
 CONTACT ME: https://t.me/eweraohw
